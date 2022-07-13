@@ -29,12 +29,8 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * Polybar
   ```sh
   #xbps-install -S polybar 
@@ -58,7 +54,7 @@ The following steps describe the installation in the following distributions: Vo
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Syntax:<br> module-left = YOUR MODULE<br>
+Syntax in your file Polybar config:<br> module-left = YOUR MODULE<br>
 module-center = YOUR MODULE<br>
 module-right = YOUR MODULE
 
